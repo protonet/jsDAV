@@ -26,7 +26,7 @@
         "dbox": "~0.5.6",
         "redis": "~0.8.2",
         "mongodb": "~1.2.12",
-        "gnu-tools": "0.0.x"
+        "gnu-tools": "~0.0.9"
     },
     "licenses": [{
         "type": "The MIT License",
